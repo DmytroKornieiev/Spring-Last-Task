@@ -34,7 +34,6 @@ public class CountryController {
 		return null;
 	}
 
-// Utiliy method to create country list.
 	public List<Country> createCountryList()
 	{
 		Country indiaCountry=new Country(1, "India");
